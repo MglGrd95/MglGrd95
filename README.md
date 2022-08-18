@@ -1,2 +1,3 @@
-I’m a web developer, I have built several websites using HTML5, CSS3, and JavaScript often, I use Git to track my progress and files, as well as collaborate with other developers.
-I’m currently learning React.js and looking for a position where I can progress and challenge my skills.
+Able to code web pages from the ground up using Html, CSS, JavaScript, Node.js and the React framework.
+Fundamental understanding of Web design concepts, cross browser development.
+10+ years of customer service experience grant me the ability to communicate with clients and fellow developers to establish the necessary requirements to complete projects in a professional and timely manner.
